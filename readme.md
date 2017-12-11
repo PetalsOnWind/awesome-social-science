@@ -292,7 +292,7 @@ this disorder.
 [R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
 
 
-#### [Lima Syndrome] (https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
+#### [Lima Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
 
 > A form of Stockholm Syndrome where abductors develop sympathy for their hostage
 
