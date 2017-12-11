@@ -30,6 +30,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
   - [Zeigarnik Effect](#zeigarnik-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
+  - [Borderline Personality Disorder](#borderline-personality-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
