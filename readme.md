@@ -292,7 +292,7 @@ this disorder.
 [R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
 
 
-####[Lima Syndrome] (https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
+#### [Lima Syndrome] (https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
 
 > A form of Stockholm Syndrome where abductors develop sympathy for their hostage
 
@@ -305,9 +305,9 @@ the hostages or the hostage is prone to developing sympathy. This disorder has b
 used in media mutiple times including Beauty and the Beast, A Song of Ice and Fire, 
 The World is Not Enough and Grand Theft Auto V.
 
-[R: Lima Syndrome] (http://tvtropes.org/pmwiki/pmwiki.php/Main/LimaSyndrome)
+[R: Lima Syndrome](http://tvtropes.org/pmwiki/pmwiki.php/Main/LimaSyndrome)
 
-[R: A Tale of Kidnapping-From Stockholm to Lima Syndrome] (http://www.ipsnews.net/1996/07/peru-tale-of-a-kidnapping-from-stockholm-to-lima-syndrome/)
+[R: A Tale of Kidnapping-From Stockholm to Lima Syndrome](http://www.ipsnews.net/1996/07/peru-tale-of-a-kidnapping-from-stockholm-to-lima-syndrome/)
 
 
 ***
