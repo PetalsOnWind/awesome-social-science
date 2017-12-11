@@ -28,6 +28,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Bystander Effect](#bystander-effect)
   - [Munchausen syndrome](#munchausen-syndrome)
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
+  - [Lima Syndrome](#lima-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
