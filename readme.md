@@ -332,6 +332,22 @@ before as compared to a product that they haven't ever seen before.
 
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/ulterior-motives/200811/know-me-is-me-i-mere-exposure)
 
+
+#### [Borderline Personality Disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder)
+
+> Long pattern pattern of abnormal behaviour including varying moods and self-image
+
+People suffering from Borderline Personality Disorder can experience anger, 
+depression and anxiety which may last from a few hours to days. People may 
+experience unstable relationships, indulge in risky activities, isolate themselves, 
+feel diassociation or engage in self-harming behaviours. Dialectical Behaviour 
+Therapy (DBT) and Cognitive Behaviour Therapy (CBT) can be used to treat Borderline
+Personality Disorder.
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml)
+
+[R: clinicaltrials.gov](https://clinicaltrials.gov/search/open/condition=%22Borderline+Personality+Disorder%22)
+
 ***
 
 ## License
