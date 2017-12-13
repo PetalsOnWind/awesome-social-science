@@ -347,7 +347,7 @@ Personality Disorder.
 
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml)
 
-[R: clinicaltrials.gov](https://clinicaltrials.gov/search/open/condition=%22Borderline+Personality+Disorder%22)
+[R: psycom.net](https://www.psycom.net/depression.central.borderline.html)
 
 ***
 
