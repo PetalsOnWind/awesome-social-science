@@ -17,6 +17,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Godwin's Law](#godwins-law)
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
+  - [Lima Syndrome](#lima-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
   - [Pygmalion Effect](#pygmalion-effect)
   - [Golem Effect](#golem-effect)
@@ -28,7 +29,6 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Bystander Effect](#bystander-effect)
   - [Munchausen syndrome](#munchausen-syndrome)
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
-  - [Lima Syndrome](#lima-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -106,6 +106,27 @@ solve adaptive problems.
 [R: Societal Stockholm Syndrom](http://web2.iadfw.net/ktrig246/out_of_cave/sss.html)
 
 [R: howstuffworks.com](http://health.howstuffworks.com/mental-health/mental-disorders/stockholm-syndrome.htm)
+
+
+#### [Lima Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
+
+> A form of Stockholm Syndrome where abductors develop sympathy for their hostage
+
+Lima Syndrome was named after the abduction at the Japanese embassy in Lima, Peru, 
+in 1996 when memebers of a militant group took hostage people attending a party 
+at the official residence of the Japanese ambassador, but set most of them free after 
+a few hours because of sympathy towards the hostages. Some of the reasons it could happen 
+is when one or more kidnappers don't agree with others,  don't feel like hurting 
+the hostages or the hostage is prone to developing sympathy. This disorder has been
+used in media mutiple times including Beauty and the Beast where the Beast develops 
+sympathy and falls in love with his hosage, A Song of Ice and Fire where the Starks
+treated Theon, their hostage, as family, and Grand Theft Auto V where Trevor ends up 
+falling for Patricia Madrazo.
+
+[R: Lima Syndrome](http://tvtropes.org/pmwiki/pmwiki.php/Main/LimaSyndrome)
+
+[R: A Tale of Kidnapping-From Stockholm to Lima Syndrome](http://www.ipsnews.net/1996/07/peru-tale-of-a-kidnapping-from-stockholm-to-lima-syndrome/)
+
 
 #### [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) [DKE]
 
@@ -291,25 +312,6 @@ this disorder.
 [R: healthline.com](https://www.healthline.com/health/munchausen-syndrome-by-proxy)
 
 [R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
-
-
-#### [Lima Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome#Lima_syndrome)
-
-> A form of Stockholm Syndrome where abductors develop sympathy for their hostage
-
-Lima Syndrome was named after the abduction at the Japanese embassy in Lima, Peru, 
-in 1996 when memebers of a militant group took hostage people attending a party 
-at the official residence of the Japanese ambassador, but set most of them free after 
-a few hours because of sympathy towards the hostages. Some of the reasons it could happen 
-is when one or more kidnappers don't agree with others,  don't feel like hurting 
-the hostages or the hostage is prone to developing sympathy. This disorder has been
-used in media mutiple times including Beauty and the Beast, A Song of Ice and Fire, 
-The World is Not Enough and Grand Theft Auto V.
-
-[R: Lima Syndrome](http://tvtropes.org/pmwiki/pmwiki.php/Main/LimaSyndrome)
-
-[R: A Tale of Kidnapping-From Stockholm to Lima Syndrome](http://www.ipsnews.net/1996/07/peru-tale-of-a-kidnapping-from-stockholm-to-lima-syndrome/)
-
 
 ***
 
